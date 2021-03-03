@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ege Berkay Gülcan"
+title: "About me"
 excerpt: "Ege Berkay Gülcan"
 author_profile: true
 redirect_from: 
