@@ -10,3 +10,6 @@ redirect_from:
 
 I'm Berkay, masters student in Computer Science at İhsan Doğramacı Bilkent University. I am a member of Bilkent Information Retrieval Group.
 
+
+
+
