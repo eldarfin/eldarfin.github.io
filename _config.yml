@@ -85,7 +85,6 @@ author:
   bio              : "Masters Student in Computer Science and Engineering, Bilkent University, Bilkent Information Retrieval Grouğ"
   location         : "Bilkent, Ankara, Turkey"
   employer         :
-  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=9wBFN5YAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +108,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
