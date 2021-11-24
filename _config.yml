@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ege Berkay Gülcan"
   avatar           : "profile.png"
-  bio              : "Masters Student in Computer Science, Bilkent University, Bilkent Information Retrieval Grouğ"
+  bio              : "Masters Student in Computer Science, Bilkent Information Retrieval Group, Bilkent University"
   location         : "Bilkent, Ankara, Turkey"
   employer         :
 
@@ -219,7 +219,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "/publications/"
+      path: ""
       type: publications
     values:
       layout: single
