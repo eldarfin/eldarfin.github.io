@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2021
 
-- Ege Berkay Gulcan, Isin Su Ecevit, Fazli Can (2021). Binary transformation method for multi‐label stream classification. Submitted to PAKDD 2022. Preprint. [[pdf]](http://eldarfin.github.io/files/PAKDD_2022.pdf). 
+- Ege Berkay Gulcan, Isin Su Ecevit, Fazli Can (2021). Binary transformation method for multi‐label stream classification. Submitted to PAKDD 2022. Preprint. [[pdf]](http://eldarfin.github.io/files/BT_Method.pdf). 
 
 ### 2019
 
