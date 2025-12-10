@@ -84,6 +84,14 @@
   }
 }
 
+/* Remove hover underline for publications */
+.archive__item:hover {
+  h2.archive__item-title:not(:has(a)) {
+    text-decoration: none;
+    cursor: default;
+  }
+}
+
 
 /*
    List view
