@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Berkay, recent masters graduate in Computer Science at İhsan Doğramacı Bilkent University. I am a member of Bilkent Information Retrieval Group.
+I'm Berkay, a third year PhD at TU Delft.
 
 
 
